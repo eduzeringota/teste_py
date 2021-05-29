@@ -1,0 +1,622 @@
+atributo,nome,valor,protocolo,servico,tipo
+name,Nome,Livia,2020.10-32.618,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Oliveira,2020.10-32.618,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.10-32.618,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.10-32.618,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.10-32.617,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Oliveira,2020.10-32.617,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.10-32.617,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.10-32.617,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.10-32.616,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Oliveira,2020.10-32.616,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.10-32.616,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.10-32.616,Poda / Corte de Árvore,STRING
+name,Nome,maria,2020.10-32.615,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,da silva,2020.10-32.615,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.10-32.615,Poda / Corte de Árvore,STRING
+email,Email,email@email.com,2020.10-32.615,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.10-32.614,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.10-32.614,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.10-32.614,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.10-32.614,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.10-32.613,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.10-32.613,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.10-32.613,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.10-32.613,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.10-32.612,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.10-32.612,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.10-32.612,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.10-32.612,Poda / Corte de Árvore,STRING
+zipcode,CEP,01154-000,2020.10-54.611,Compra de computadores,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.10-54.611,Compra de computadores,STRING
+neighborhood,Bairro,Santa Cecilia,2020.10-54.611,Compra de computadores,STRING
+city,Cidade,São Paulo,2020.10-54.611,Compra de computadores,STRING
+state,Estado,SP,2020.10-54.611,Compra de computadores,STRING
+name,Nome,Livia,2020.10-54.611,Compra de computadores,STRING
+lastname,Sobrenome,Xavier,2020.10-54.611,Compra de computadores,STRING
+cpf,CPF,111.111.111-11,2020.10-54.611,Compra de computadores,STRING
+email,Email,livia.xavier@alpar.com.br,2020.10-54.611,Compra de computadores,STRING
+tipo,Tipo,Notebook,2020.10-54.611,Compra de computadores,STRING
+name,Nome,Livia,2020.10-54.610,Compra de computadores,STRING
+zipcode,CEP,01154-000,2020.10-54.610,Compra de computadores,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.10-54.610,Compra de computadores,STRING
+neighborhood,Bairro,Santa Cecilia,2020.10-54.610,Compra de computadores,STRING
+city,Cidade,São Paulo,2020.10-54.610,Compra de computadores,STRING
+state,Estado,SP,2020.10-54.610,Compra de computadores,STRING
+lastname,Sobrenome,Oliveira,2020.10-54.610,Compra de computadores,STRING
+cpf,CPF,111.111.111-11,2020.10-54.610,Compra de computadores,STRING
+email,Email,livia.xavier@alpar.com.br,2020.10-54.610,Compra de computadores,STRING
+tipo,Tipo,Desktop,2020.10-54.610,Compra de computadores,STRING
+zipcode,CEP,01154-000,2020.9-34.609,Licenciamento Ambiental,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.9-34.609,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Santa Cecilia,2020.9-34.609,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.9-34.609,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.9-34.609,Licenciamento Ambiental,STRING
+cnpj,CNPJ,12312312,2020.9-34.609,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-34.609,Licenciamento Ambiental,STRING
+zipcode,CEP,05085-000,2020.9-59.608,Compra de Materiais,STRING
+street,Logradouro,R. Passo da Pátria,2020.9-59.608,Compra de Materiais,STRING
+neighborhood,Bairro,Vila Bela Alianca,2020.9-59.608,Compra de Materiais,STRING
+city,Cidade,São Paulo,2020.9-59.608,Compra de Materiais,STRING
+state,Estado,SP,2020.9-59.608,Compra de Materiais,STRING
+item,Item,Seringa,2020.9-59.608,Compra de Materiais,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.9-59.608,Compra de Materiais,STRING
+zipcode,CEP,05085-000,2020.9-59.607,Compra de Materiais,STRING
+street,Logradouro,R. Passo da Pátria,2020.9-59.607,Compra de Materiais,STRING
+neighborhood,Bairro,Vila Bela Alianca,2020.9-59.607,Compra de Materiais,STRING
+city,Cidade,São Paulo,2020.9-59.607,Compra de Materiais,STRING
+state,Estado,SP,2020.9-59.607,Compra de Materiais,STRING
+item,Item,Seringa,2020.9-59.607,Compra de Materiais,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.9-59.607,Compra de Materiais,STRING
+zipcode,CEP,05085-000,2020.9-59.606,Compra de Materiais,STRING
+street,Logradouro,R. Passo da Pátria,2020.9-59.606,Compra de Materiais,STRING
+neighborhood,Bairro,Vila Bela Alianca,2020.9-59.606,Compra de Materiais,STRING
+city,Cidade,São Paulo,2020.9-59.606,Compra de Materiais,STRING
+state,Estado,SP,2020.9-59.606,Compra de Materiais,STRING
+item,Item,Seringa,2020.9-59.606,Compra de Materiais,STRING
+descricao,Descrição,"Seringa 10 ml descartável, material plástico, bico luer slip, sem agulha, para medicação",2020.9-59.606,Compra de Materiais,STRING
+quantidade,Quantidade,120,2020.9-59.606,Compra de Materiais,INTEGER
+hospital,Hospital,Hospital de campanha H Cmo,2020.9-59.606,Compra de Materiais,STRING
+solicitanteNome,Solicitante Nome,Fernando,2020.9-59.606,Compra de Materiais,STRING
+phone,Telefone,1996066980,2020.9-59.606,Compra de Materiais,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.9-59.606,Compra de Materiais,STRING
+zipcode,CEP,01154-000,2020.9-60.605,Consumo de Materiais,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.9-60.605,Consumo de Materiais,STRING
+neighborhood,Bairro,Santa Cecilia,2020.9-60.605,Consumo de Materiais,STRING
+city,Cidade,São Paulo,2020.9-60.605,Consumo de Materiais,STRING
+state,Estado,SP,2020.9-60.605,Consumo de Materiais,STRING
+item,Item,Luva,2020.9-60.605,Consumo de Materiais,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-60.605,Consumo de Materiais,STRING
+zipcode,CEP,01154-000,2020.9-60.604,Consumo de Materiais,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.9-60.604,Consumo de Materiais,STRING
+neighborhood,Bairro,Santa Cecilia,2020.9-60.604,Consumo de Materiais,STRING
+city,Cidade,São Paulo,2020.9-60.604,Consumo de Materiais,STRING
+state,Estado,SP,2020.9-60.604,Consumo de Materiais,STRING
+item,Item,Antibiótico,2020.9-60.604,Consumo de Materiais,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-60.604,Consumo de Materiais,STRING
+responsavelNome,Responsável Nome,Teste,2020.9-60.604,Consumo de Materiais,STRING
+zipcode,CEP,05085-000,2020.9-60.603,Consumo de Materiais,STRING
+street,Logradouro,R. Passo da Pátria,2020.9-60.603,Consumo de Materiais,STRING
+neighborhood,Bairro,Vila Bela Alianca,2020.9-60.603,Consumo de Materiais,STRING
+city,Cidade,São Paulo,2020.9-60.603,Consumo de Materiais,STRING
+state,Estado,SP,2020.9-60.603,Consumo de Materiais,STRING
+numeroDoEdital,Número do Edital,0000/2020,2020.9-60.603,Consumo de Materiais,STRING
+item,Item,Agulha,2020.9-60.603,Consumo de Materiais,STRING
+descricao,Descrição,Nomonomo,2020.9-60.603,Consumo de Materiais,STRING
+quantidadeParaConsumo,Quantidade para consumo,100,2020.9-60.603,Consumo de Materiais,INTEGER
+hospital,Hospital,Unidade xpto,2020.9-60.603,Consumo de Materiais,STRING
+responsavelNome,Responsável Nome,Fernando,2020.9-60.603,Consumo de Materiais,STRING
+phone,Telefone,1996066980,2020.9-60.603,Consumo de Materiais,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.9-60.603,Consumo de Materiais,STRING
+zipcode,CEP,05085-000,2020.9-60.602,Consumo de Materiais,STRING
+street,Logradouro,R. Passo da Pátria,2020.9-60.602,Consumo de Materiais,STRING
+neighborhood,Bairro,Vila Bela Alianca,2020.9-60.602,Consumo de Materiais,STRING
+city,Cidade,São Paulo,2020.9-60.602,Consumo de Materiais,STRING
+state,Estado,SP,2020.9-60.602,Consumo de Materiais,STRING
+numeroDoEdital,Número do Edital,000/2020,2020.9-60.602,Consumo de Materiais,STRING
+item,Item,Agulha,2020.9-60.602,Consumo de Materiais,STRING
+descricao,Descrição,Xpto,2020.9-60.602,Consumo de Materiais,STRING
+quantidadeParaConsumo,Quantidade para consumo,100,2020.9-60.602,Consumo de Materiais,INTEGER
+hospital,Hospital,Unidade xpto,2020.9-60.602,Consumo de Materiais,STRING
+responsavelNome,Responsável Nome,Fernando,2020.9-60.602,Consumo de Materiais,STRING
+phone,Telefone,1996066980,2020.9-60.602,Consumo de Materiais,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.9-60.602,Consumo de Materiais,STRING
+zipcode,CEP,05085-000,2020.9-59.601,Compra de Materiais,STRING
+street,Logradouro,R. Passo da Pátria,2020.9-59.601,Compra de Materiais,STRING
+neighborhood,Bairro,Vila Bela Alianca,2020.9-59.601,Compra de Materiais,STRING
+city,Cidade,São Paulo,2020.9-59.601,Compra de Materiais,STRING
+state,Estado,SP,2020.9-59.601,Compra de Materiais,STRING
+item,Item,Agulha,2020.9-59.601,Compra de Materiais,STRING
+descricao,Descrição,Agulha padrão doto 50 ml,2020.9-59.601,Compra de Materiais,STRING
+quantidade,Quantidade,1000,2020.9-59.601,Compra de Materiais,INTEGER
+hospital,Hospital,Unidade abcs,2020.9-59.601,Compra de Materiais,STRING
+solicitanteNome,Solicitante Nome,Fernando,2020.9-59.601,Compra de Materiais,STRING
+phone,Telefone,11996066980,2020.9-59.601,Compra de Materiais,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.9-59.601,Compra de Materiais,STRING
+zipcode,CEP,01154-000,2020.9-59.600,Compra de Materiais,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.9-59.600,Compra de Materiais,STRING
+neighborhood,Bairro,Santa Cecilia,2020.9-59.600,Compra de Materiais,STRING
+city,Cidade,São Paulo,2020.9-59.600,Compra de Materiais,STRING
+state,Estado,SP,2020.9-59.600,Compra de Materiais,STRING
+item,Item,Seringa,2020.9-59.600,Compra de Materiais,STRING
+descricao,Descrição,,2020.9-59.600,Compra de Materiais,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-59.600,Compra de Materiais,STRING
+zipcode,CEP,01151-010,2020.9-59.599,Compra de Materiais,STRING
+street,Logradouro,-,2020.9-59.599,Compra de Materiais,STRING
+neighborhood,Bairro,Santa Cecilia,2020.9-59.599,Compra de Materiais,STRING
+city,Cidade,São Paulo,2020.9-59.599,Compra de Materiais,STRING
+state,Estado,SP,2020.9-59.599,Compra de Materiais,STRING
+item,Item,Antibiótico,2020.9-59.599,Compra de Materiais,STRING
+descricao,Descrição,,2020.9-59.599,Compra de Materiais,STRING
+hospital,Hospital,Teste,2020.9-59.599,Compra de Materiais,STRING
+solicitanteNome,Solicitante Nome,Nome Sobrenome,2020.9-59.599,Compra de Materiais,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-59.599,Compra de Materiais,STRING
+zipcode,CEP,05085-000,2020.9-59.598,Compra de Materiais,STRING
+street,Logradouro,-,2020.9-59.598,Compra de Materiais,STRING
+neighborhood,Bairro,-,2020.9-59.598,Compra de Materiais,STRING
+city,Cidade,Orange County,2020.9-59.598,Compra de Materiais,STRING
+state,Estado,VT,2020.9-59.598,Compra de Materiais,STRING
+item,Item,Agulha,2020.9-59.598,Compra de Materiais,STRING
+descricao,Descrição,,2020.9-59.598,Compra de Materiais,STRING
+quantidade,Quantidade,10,2020.9-59.598,Compra de Materiais,INTEGER
+email,Email,fernandojobim@uol.com.br,2020.9-59.598,Compra de Materiais,STRING
+origemDoServidor,Origem do servidor,Outra pasta,2020.9-44.597,Nomeação,STRING
+orgaoDeNomeacao,Órgão de nomeação,INSS,2020.9-44.597,Nomeação,STRING
+cargoDeNomeacao,Cargo de nomeação,Auxiliar Administativo,2020.9-44.597,Nomeação,STRING
+nomeCompletoDoNomeado,Nome completo do nomeado,Marcos Silveira Gonçalves,2020.9-44.597,Nomeação,STRING
+rG,RG,09123071020128309,2020.9-44.597,Nomeação,STRING
+cPF,CPF,11111111111111111111,2020.9-44.597,Nomeação,STRING
+tipoDeNomeacao,Tipo de nomeação,Cargo,2020.9-44.597,Nomeação,STRING
+subordinacao,Subordinação,Chefia Administrativa,2020.9-44.597,Nomeação,STRING
+name,Nome,Livia,2020.9-32.596,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.9-32.596,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.596,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.596,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.9-32.595,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.595,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.595,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.595,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.9-32.594,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.594,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.594,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.594,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.9-32.593,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.593,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.593,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.593,Poda / Corte de Árvore,STRING
+name,Nome,livai,2020.9-32.592,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.592,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.592,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.592,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.9-32.591,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.591,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.591,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.591,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.9-32.590,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.590,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.590,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.590,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.9-32.589,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.589,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.589,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.589,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.9-32.588,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.9-32.588,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.588,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.588,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.9-32.587,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.9-32.587,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.587,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.587,Poda / Corte de Árvore,STRING
+name,Nome,livia ,2020.9-32.586,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.586,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.586,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.586,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.9-32.585,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.585,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.585,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.585,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.9-32.584,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.584,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.584,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.584,Poda / Corte de Árvore,STRING
+name,Nome,livia,2020.9-32.583,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,xavier,2020.9-32.583,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.583,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.583,Poda / Corte de Árvore,STRING
+zipcode,CEP,03876200,2020.9-34.582,Licenciamento Ambiental,STRING
+street,Logradouro,-,2020.9-34.582,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Vila Rio Branco,2020.9-34.582,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.9-34.582,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.9-34.582,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.9-34.582,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-34.582,Licenciamento Ambiental,STRING
+name,Nome,Livia,2020.9-32.581,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.9-32.581,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.581,Poda / Corte de Árvore,STRING
+phone,Telefone,,2020.9-32.581,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.581,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.9-32.580,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.9-32.580,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.9-32.580,Poda / Corte de Árvore,STRING
+phone,Telefone,,2020.9-32.580,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.9-32.580,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.8-32.579,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.8-32.579,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.8-32.579,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.8-32.579,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.8-32.578,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.8-32.578,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.8-32.578,Poda / Corte de Árvore,STRING
+phone,Telefone,,2020.8-32.578,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.8-32.578,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.8-32.577,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.8-32.577,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.8-32.577,Poda / Corte de Árvore,STRING
+phone,Telefone,11 09831283012391820398109238123,2020.8-32.577,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.8-32.577,Poda / Corte de Árvore,STRING
+zipcode,CEP,01154-000,2020.8-32.576,Poda / Corte de Árvore,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.8-32.576,Poda / Corte de Árvore,STRING
+neighborhood,Bairro,Santa Cecilia,2020.8-32.576,Poda / Corte de Árvore,STRING
+city,Cidade,São Paulo,2020.8-32.576,Poda / Corte de Árvore,STRING
+state,Estado,SP,2020.8-32.576,Poda / Corte de Árvore,STRING
+cnpj,CNPJ,123,2020.8-32.576,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.8-32.576,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.8-32.576,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.8-32.576,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.8-32.576,Poda / Corte de Árvore,STRING
+zipcode,CEP,01154-000,2020.8-34.575,Licenciamento Ambiental,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.8-34.575,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Santa Cecilia,2020.8-34.575,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.8-34.575,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.8-34.575,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.8-34.575,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.8-34.575,Licenciamento Ambiental,STRING
+zipcode,CEP,01226-031,2020.7-34.574,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barão de Tatuí,2020.7-34.574,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Vila Buarque,2020.7-34.574,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.574,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.574,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.574,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.574,Licenciamento Ambiental,STRING
+name,Nome,Fernando,2020.7-32.573,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Jobim,2020.7-32.573,Poda / Corte de Árvore,STRING
+cpf,CPF,288.046.480-31,2020.7-32.573,Poda / Corte de Árvore,STRING
+phone,Telefone,1996066980,2020.7-32.573,Poda / Corte de Árvore,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.7-32.573,Poda / Corte de Árvore,STRING
+name,Nome,Fernando,2020.7-32.572,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Jobim,2020.7-32.572,Poda / Corte de Árvore,STRING
+cpf,CPF,288.046.480-31,2020.7-32.572,Poda / Corte de Árvore,STRING
+phone,Telefone,1996066980,2020.7-32.572,Poda / Corte de Árvore,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.7-32.572,Poda / Corte de Árvore,STRING
+name,Nome,Fernando,2020.7-32.571,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Jobim,2020.7-32.571,Poda / Corte de Árvore,STRING
+cpf,CPF,186.302.308-94,2020.7-32.571,Poda / Corte de Árvore,STRING
+phone,Telefone,1996066980,2020.7-32.571,Poda / Corte de Árvore,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.7-32.571,Poda / Corte de Árvore,STRING
+name,Nome,Fernando,2020.7-32.570,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Jobim,2020.7-32.570,Poda / Corte de Árvore,STRING
+cpf,CPF,186.302.308-94,2020.7-32.570,Poda / Corte de Árvore,STRING
+phone,Telefone,1996066980,2020.7-32.570,Poda / Corte de Árvore,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.7-32.570,Poda / Corte de Árvore,STRING
+zipcode,CEP,01152-000,2020.7-34.569,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.569,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.569,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.569,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.569,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.569,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.569,Licenciamento Ambiental,STRING
+zipcode,CEP,01154-000,2020.7-34.568,Licenciamento Ambiental,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.7-34.568,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-34.568,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.568,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.568,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.568,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.568,Licenciamento Ambiental,STRING
+zipcode,CEP,01154-000,2020.7-34.567,Licenciamento Ambiental,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.7-34.567,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-34.567,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.567,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.567,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.567,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.567,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.566,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.566,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.566,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.566,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.566,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.566,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.566,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.565,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.565,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.565,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.565,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.565,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.565,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.565,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.564,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.564,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.564,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.564,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.564,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.564,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.564,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.563,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.563,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.563,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.563,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.563,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.563,Licenciamento Ambiental,STRING
+razaoSocial,Razão Social,,2020.7-34.563,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.563,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.562,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.562,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.562,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.562,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.562,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.562,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.562,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.561,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.561,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.561,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.561,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.561,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.561,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.561,Licenciamento Ambiental,STRING
+zipcode,CEP,01154-000,2020.7-34.560,Licenciamento Ambiental,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.7-34.560,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-34.560,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.560,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.560,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.560,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.560,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.559,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.559,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.559,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.559,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.559,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.559,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.559,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.558,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.558,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.558,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.558,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.558,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.558,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.558,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.557,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.557,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.557,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.557,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.557,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.557,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.557,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.556,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.556,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.556,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.556,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.556,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.556,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.556,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.555,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.555,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.555,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.555,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.555,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.555,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.555,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.554,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.554,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.554,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.554,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.554,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.554,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.554,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.553,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.553,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.553,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.553,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.553,Licenciamento Ambiental,STRING
+cnpj,CNPJ,12312312,2020.7-34.553,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.553,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.552,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.552,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.552,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.552,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.552,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.552,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.552,Licenciamento Ambiental,STRING
+zipcode,CEP,01152-000,2020.7-34.551,Licenciamento Ambiental,STRING
+street,Logradouro,R. Barra Funda,2020.7-34.551,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Barra Funda,2020.7-34.551,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.551,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.551,Licenciamento Ambiental,STRING
+cnpj,CNPJ,12312312,2020.7-34.551,Licenciamento Ambiental,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-34.551,Licenciamento Ambiental,STRING
+zipcode,CEP,01154-000,2020.7-34.550,Licenciamento Ambiental,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.7-34.550,Licenciamento Ambiental,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-34.550,Licenciamento Ambiental,STRING
+city,Cidade,São Paulo,2020.7-34.550,Licenciamento Ambiental,STRING
+state,Estado,SP,2020.7-34.550,Licenciamento Ambiental,STRING
+cnpj,CNPJ,123,2020.7-34.550,Licenciamento Ambiental,STRING
+name,Nome,Fernando,2020.7-32.549,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Jobim,2020.7-32.549,Poda / Corte de Árvore,STRING
+cpf,CPF,186.302.308-94,2020.7-32.549,Poda / Corte de Árvore,STRING
+phone,Telefone,1996066980,2020.7-32.549,Poda / Corte de Árvore,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.7-32.549,Poda / Corte de Árvore,STRING
+zipcode,CEP,65110-000,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,-,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,-,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São José de Ribamar,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+state,Estado,MA,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,true,2020.7-55.548,Situação de Assistência Social do Municipio,BOOLEAN
+possuiEspacoFisicoAdequado,Possui espaço Físico Adequado,true,2020.7-55.548,Situação de Assistência Social do Municipio,BOOLEAN
+possuiRecursosHumanosSuficientesConformeNOBRH,Possui Recursos Humanos suficientes conforme NOB/RH,true,2020.7-55.548,Situação de Assistência Social do Municipio,BOOLEAN
+possuiVeiculoParaRealizacaoDasAtividades,Possui veículo para realização das atividades,true,2020.7-55.548,Situação de Assistência Social do Municipio,BOOLEAN
+possuiPlanoMunicipalDeAssistenciaSocial,Possui Plano Municipal de Assistência Social,true,2020.7-55.548,Situação de Assistência Social do Municipio,BOOLEAN
+existeSetorEspecifico,Existe setor específico,true,2020.7-55.548,Situação de Assistência Social do Municipio,BOOLEAN
+qualALocalizacao,Qual a localização,CRAS,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+tipoDeGestaoEConcessaoDosBeneficios,Tipo de gestão e concessão dos Benefícios,compartilhada,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoIdosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0,2020.7-55.548,Situação de Assistência Social do Municipio,INTEGER
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoPCD,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0,2020.7-55.548,Situação de Assistência Social do Municipio,INTEGER
+quantosFaltamDeAcordoComOsDadosDoCadUnicoEIBGE,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",2,2020.7-55.548,Situação de Assistência Social do Municipio,INTEGER
+bPCNaEscola,BPC na Escola,Renovação,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+phone,Telefone,1996066980,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.7-55.548,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,65110-000,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,-,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,-,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São José de Ribamar,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+state,Estado,MA,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,true,2020.7-55.547,Situação de Assistência Social do Municipio,BOOLEAN
+possuiEspacoFisicoAdequado,Possui espaço Físico Adequado,true,2020.7-55.547,Situação de Assistência Social do Municipio,BOOLEAN
+possuiRecursosHumanosSuficientesConformeNOBRH,Possui Recursos Humanos suficientes conforme NOB/RH,true,2020.7-55.547,Situação de Assistência Social do Municipio,BOOLEAN
+possuiVeiculoParaRealizacaoDasAtividades,Possui veículo para realização das atividades,true,2020.7-55.547,Situação de Assistência Social do Municipio,BOOLEAN
+possuiPlanoMunicipalDeAssistenciaSocial,Possui Plano Municipal de Assistência Social,true,2020.7-55.547,Situação de Assistência Social do Municipio,BOOLEAN
+realizouCapacitacoesComRecursosPropriosNos2UltimosAnos,Realizou capacitações com recursos próprios nos 2 últimos anos,true,2020.7-55.547,Situação de Assistência Social do Municipio,BOOLEAN
+existeSetorEspecifico,Existe setor específico,true,2020.7-55.547,Situação de Assistência Social do Municipio,BOOLEAN
+qualALocalizacao,Qual a localização,CRAS,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+tipoDeGestaoEConcessaoDosBeneficios,Tipo de gestão e concessão dos Benefícios,compartilhada,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoIdosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0,2020.7-55.547,Situação de Assistência Social do Municipio,INTEGER
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoPCD,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0,2020.7-55.547,Situação de Assistência Social do Municipio,INTEGER
+quantosFaltamDeAcordoComOsDadosDoCadUnicoEIBGE,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",2,2020.7-55.547,Situação de Assistência Social do Municipio,INTEGER
+bPCNaEscola,BPC na Escola,Renovação,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+phone,Telefone,1996066980,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.7-55.547,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,65110-000,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,-,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,-,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São José de Ribamar,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+state,Estado,MA,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,true,2020.7-55.546,Situação de Assistência Social do Municipio,BOOLEAN
+possuiEspacoFisicoAdequado,Possui espaço Físico Adequado,true,2020.7-55.546,Situação de Assistência Social do Municipio,BOOLEAN
+possuiRecursosHumanosSuficientesConformeNOBRH,Possui Recursos Humanos suficientes conforme NOB/RH,true,2020.7-55.546,Situação de Assistência Social do Municipio,BOOLEAN
+possuiVeiculoParaRealizacaoDasAtividades,Possui veículo para realização das atividades,true,2020.7-55.546,Situação de Assistência Social do Municipio,BOOLEAN
+possuiPlanoMunicipalDeAssistenciaSocial,Possui Plano Municipal de Assistência Social,true,2020.7-55.546,Situação de Assistência Social do Municipio,BOOLEAN
+realizouCapacitacoesComRecursosPropriosNos2UltimosAnos,Realizou capacitações com recursos próprios nos 2 últimos anos,true,2020.7-55.546,Situação de Assistência Social do Municipio,BOOLEAN
+existeSetorEspecifico,Existe setor específico,true,2020.7-55.546,Situação de Assistência Social do Municipio,BOOLEAN
+qualALocalizacao,Qual a localização,CRAS,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+tipoDeGestaoEConcessaoDosBeneficios,Tipo de gestão e concessão dos Benefícios,compartilhada,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoIdosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0,2020.7-55.546,Situação de Assistência Social do Municipio,INTEGER
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoPCD,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0,2020.7-55.546,Situação de Assistência Social do Municipio,INTEGER
+quantosFaltamDeAcordoComOsDadosDoCadUnicoEIBGE,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",2,2020.7-55.546,Situação de Assistência Social do Municipio,INTEGER
+bPCNaEscola,BPC na Escola,Renovação,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+phone,Telefone,119960680,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+email,Email,fernando.jobim@alparservice.com.br,2020.7-55.546,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,65110-000,2020.7-55.545,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,-,2020.7-55.545,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,-,2020.7-55.545,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São José de Ribamar,2020.7-55.545,Situação de Assistência Social do Municipio,STRING
+state,Estado,MA,2020.7-55.545,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,true,2020.7-55.545,Situação de Assistência Social do Municipio,BOOLEAN
+email,Email,livia.xavier@alpar.com.br,2020.7-55.545,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,65110-000,2020.7-55.544,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,-,2020.7-55.544,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,-,2020.7-55.544,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São José de Ribamar,2020.7-55.544,Situação de Assistência Social do Municipio,STRING
+state,Estado,MA,2020.7-55.544,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,true,2020.7-55.544,Situação de Assistência Social do Municipio,BOOLEAN
+email,Email,livia.xavier@alpar.com.br,2020.7-55.544,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,65110-000,2020.7-55.543,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,-,2020.7-55.543,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,-,2020.7-55.543,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São José de Ribamar,2020.7-55.543,Situação de Assistência Social do Municipio,STRING
+state,Estado,MA,2020.7-55.543,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,false,2020.7-55.543,Situação de Assistência Social do Municipio,BOOLEAN
+zipcode,CEP,01151-010,2020.7-55.542,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,-,2020.7-55.542,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-55.542,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São Paulo,2020.7-55.542,Situação de Assistência Social do Municipio,STRING
+state,Estado,SP,2020.7-55.542,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,65110-000,2020.7-55.541,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São José de Ribamar,2020.7-55.541,Situação de Assistência Social do Municipio,STRING
+state,Estado,MA,2020.7-55.541,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,true,2020.7-55.541,Situação de Assistência Social do Municipio,BOOLEAN
+possuiEspacoFisicoAdequado,Possui espaço Físico Adequado,true,2020.7-55.541,Situação de Assistência Social do Municipio,BOOLEAN
+possuiRecursosHumanosSuficientesConformeNOBRH,Possui Recursos Humanos suficientes conforme NOB/RH,true,2020.7-55.541,Situação de Assistência Social do Municipio,BOOLEAN
+tipoDeGestaoEConcessaoDosBeneficios,Tipo de gestão e concessão dos Benefícios,compartilhada,2020.7-55.541,Situação de Assistência Social do Municipio,STRING
+qualALocalizacao,Qual a localização,CRAS,2020.7-55.541,Situação de Assistência Social do Municipio,STRING
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoIdosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,0,2020.7-55.541,Situação de Assistência Social do Municipio,INTEGER
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoPCD,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,0,2020.7-55.541,Situação de Assistência Social do Municipio,INTEGER
+quantosFaltamDeAcordoComOsDadosDoCadUnicoEIBGE,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",2,2020.7-55.541,Situação de Assistência Social do Municipio,INTEGER
+grupoGestorConstituido,Grupo Gestor constituído,false,2020.7-55.541,Situação de Assistência Social do Municipio,BOOLEAN
+possuiVeiculoParaRealizacaoDasAtividades,Possui veículo para realização das atividades,true,2020.7-55.541,Situação de Assistência Social do Municipio,BOOLEAN
+realizouCapacitacoesComRecursosPropriosNos2UltimosAnos,Realizou capacitações com recursos próprios nos 2 últimos anos,true,2020.7-55.541,Situação de Assistência Social do Municipio,BOOLEAN
+existeSetorEspecifico,Existe setor específico,true,2020.7-55.541,Situação de Assistência Social do Municipio,BOOLEAN
+bPCNaEscola,BPC na Escola,Renovação,2020.7-55.541,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,65110000,2020.7-55.540,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São José de Ribamar,2020.7-55.540,Situação de Assistência Social do Municipio,STRING
+state,Estado,MA,2020.7-55.540,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,65110-000,2020.7-55.539,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São José de Ribamar,2020.7-55.539,Situação de Assistência Social do Municipio,STRING
+state,Estado,MA,2020.7-55.539,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,01154-000,2020.7-55.538,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.7-55.538,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-55.538,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São Paulo,2020.7-55.538,Situação de Assistência Social do Municipio,STRING
+state,Estado,SP,2020.7-55.538,Situação de Assistência Social do Municipio,STRING
+existeSetorEspecifico,Existe setor específico,true,2020.7-55.538,Situação de Assistência Social do Municipio,BOOLEAN
+qualALocalizacao,Qual a localização,CRAS,2020.7-55.538,Situação de Assistência Social do Municipio,STRING
+tipoDeGestaoEConcessaoDosBeneficios,Tipo de gestão e concessão dos Benefícios,compartilhada,2020.7-55.538,Situação de Assistência Social do Municipio,STRING
+bPCNaEscola,BPC na Escola,Adesão,2020.7-55.538,Situação de Assistência Social do Municipio,STRING
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoIdosos,Quantidade de Usuários do BPC inscritos no CadÚnico Idosos,132,2020.7-55.538,Situação de Assistência Social do Municipio,INTEGER
+quantidadeDeUsuariosDoBPCInscritosNoCadUnicoPCD,Quantidade de Usuários do BPC inscritos no CadÚnico PCD,4654,2020.7-55.538,Situação de Assistência Social do Municipio,INTEGER
+quantosFaltamDeAcordoComOsDadosDoCadUnicoEIBGE,"Quantos faltam, de acordo com os dados do CadUnico e IBGE",999,2020.7-55.538,Situação de Assistência Social do Municipio,INTEGER
+zipcode,CEP,01154-000,2020.7-55.537,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.7-55.537,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-55.537,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São Paulo,2020.7-55.537,Situação de Assistência Social do Municipio,STRING
+state,Estado,SP,2020.7-55.537,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,true,2020.7-55.537,Situação de Assistência Social do Municipio,BOOLEAN
+possuiEspacoFisicoAdequado,Possui espaço Físico Adequado,true,2020.7-55.537,Situação de Assistência Social do Municipio,BOOLEAN
+qualALocalizacao,Qual a localização,Outro,2020.7-55.537,Situação de Assistência Social do Municipio,STRING
+tipoDeGestaoEConcessaoDosBeneficios,Tipo de gestão e concessão dos Benefícios,exclusiva do setor,2020.7-55.537,Situação de Assistência Social do Municipio,STRING
+bPCNaEscola,BPC na Escola,Adesão,2020.7-55.537,Situação de Assistência Social do Municipio,STRING
+zipcode,CEP,01154-000,2020.7-55.536,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.7-55.536,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-55.536,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São Paulo,2020.7-55.536,Situação de Assistência Social do Municipio,STRING
+state,Estado,SP,2020.7-55.536,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+possuiEspacoFisicoAdequado,Possui espaço Físico Adequado,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+possuiRecursosHumanosSuficientesConformeNOBRH,Possui Recursos Humanos suficientes conforme NOB/RH,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+possuiPlanoMunicipalDeAssistenciaSocial,Possui Plano Municipal de Assistência Social,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+possuiDiagnosticoSocioTerritorial,Possui Diagnóstico Sócio territorial,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+possuiPlanoMunicipalDeEducacaoPermanenteDoSUAS,Possui Plano Municipal de Educação Permanente do SUAS,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+realizouCapacitacoesComRecursosPropriosNos2UltimosAnos,Realizou capacitações com recursos próprios nos 2 últimos anos,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+atuouEmTematicasPrevistasNoPlanoMunicipalDeEducacaoPermanenteDoSUAS,Atuou em temáticas previstas no Plano Municipal de Educação Permanente do SUAS,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+participouDeCapacitacoesRealizadasPelaSEDESNosUltimos2Anos,Participou de capacitações realizadas pela SEDES nos últimos 2 anos,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+grupoGestorConstituido,Grupo Gestor constituído,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+coFinanciamentoEstadual,Co-financiamento Estadual,true,2020.7-55.536,Situação de Assistência Social do Municipio,BOOLEAN
+zipcode,CEP,01154-000,2020.7-535.55,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.7-535.55,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-535.55,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São Paulo,2020.7-535.55,Situação de Assistência Social do Municipio,STRING
+state,Estado,SP,2020.7-535.55,Situação de Assistência Social do Municipio,STRING
+possuiEstruturacaoDaSMASComAreasEssenciais,Possui estruturação da SMAS com áreas essenciais:,true,2020.7-535.55,Situação de Assistência Social do Municipio,BOOLEAN
+zipcode,CEP,01154-000,2020.7-534.55,Situação de Assistência Social do Municipio,STRING
+street,Logradouro,Av. Gen. Olímpio da Silveira,2020.7-534.55,Situação de Assistência Social do Municipio,STRING
+neighborhood,Bairro,Santa Cecilia,2020.7-534.55,Situação de Assistência Social do Municipio,STRING
+city,Cidade,São Paulo,2020.7-534.55,Situação de Assistência Social do Municipio,STRING
+state,Estado,SP,2020.7-534.55,Situação de Assistência Social do Municipio,STRING
+name,Nome,Livia,2020.7-533.32,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.7-533.32,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.7-533.32,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-533.32,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.7-532.32,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.7-532.32,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.7-532.32,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-532.32,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.7-529.32,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.7-529.32,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.7-529.32,Poda / Corte de Árvore,STRING
+phone,Telefone,11 9 8696 5896,2020.7-529.32,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-529.32,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.7-528.32,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.7-528.32,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.7-528.32,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-528.32,Poda / Corte de Árvore,STRING
+name,Nome,Livia,2020.7-527.32,Poda / Corte de Árvore,STRING
+lastname,Sobrenome,Xavier,2020.7-527.32,Poda / Corte de Árvore,STRING
+cpf,CPF,111.111.111-11,2020.7-527.32,Poda / Corte de Árvore,STRING
+email,Email,livia.xavier@alpar.com.br,2020.7-527.32,Poda / Corte de Árvore,STRING
